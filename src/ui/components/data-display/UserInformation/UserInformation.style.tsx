@@ -1,4 +1,4 @@
-import { experimentalStyled as styled } from "@mui/material";
+import { experimentalStyled as styled } from "@mui/material/styles";
 import { Avatar, Rating } from "@mui/material";
 
 export const UserInformationContainer = styled("div")`

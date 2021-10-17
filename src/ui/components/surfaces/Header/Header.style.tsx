@@ -1,4 +1,4 @@
-import { experimentalStyled as styled } from "@mui/material";
+import { experimentalStyled as styled } from "@mui/material/styles";
 import { AppBar } from "@mui/material";
 
 export const HeaderAppBar = styled(AppBar)`
