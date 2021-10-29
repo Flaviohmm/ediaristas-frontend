@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const url = "http://127.0.0.1:8000"
+const url = "https://rocky-sierra-65016.herokuapp.com/"
 
 export const ApiService = axios.create({
     baseURL: url,
